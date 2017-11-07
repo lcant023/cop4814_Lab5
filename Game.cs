@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 //Editing in Branch 1.
 //This is for step 7.
-//Editing double modification.
-//Step 11.
+//Editing in master branch.
+//Editing step 11 double mod.
+
 namespace Game
 {
     public class Game
